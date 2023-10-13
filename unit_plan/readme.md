@@ -1,5 +1,7 @@
-# UNIT PLAN NAME
-by TEAM MEMBERS
+# Overview of the Videogame Industry
+by Warren Zeng
+
+*As part of the imagined "Game Design" curriculum*
 
 -----
 
@@ -21,10 +23,15 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ## Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 
+
+
 ---
 
 ## Resources
 (include any links/books/readings to be used during this unit)
+
+
+
 
 ---
 
@@ -33,9 +40,19 @@ Total lenght: X Weeks
 
 (list each lesson with main topic(s))
 
+
+
+
 ---
 
 ## Assesments
 (list summative and/or formative assessments used)
+
+
+
+Summative - presentation
+
+
+
 
 ---
