@@ -90,14 +90,14 @@ Week 2
 (list summative and/or formative assessments used)
 
 formative - 
-(nothing specific at the moment, but I think I would like to assignments throughout the unit where students discuss/write about their own feelings based on 
-the different things they are learning, which would be used as a formative assessment so that I as the teacher can check their understanding)
+- temperature check of room (thumbs up/down, etc.) during introduction to concepts
+- exit tickets at the end of class that asks students to explain concept in their own words/take a stance, etc.
 
 
-Summative - final presentation  
-maybe some sort of final paper?
-
-
+Summative - 
+- discussion posts (students discuss/write about their own feelings based on the different things they are learning, which could also be used as formative assessment to check understanding)
+- final presentation  
+- maybe some sort of final paper?
 
 
 ---
