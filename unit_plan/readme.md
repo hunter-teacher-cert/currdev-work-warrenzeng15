@@ -54,26 +54,34 @@ https://www.youtube.com/watch?v=VScoEZ-qyC4
 ---
 
 ## Lessons
-Total length: ~2 Weeks, 45 minute periods
+Total length: ~2 Weeks, 45 minute periods. Each bullet represents 1 instructional period
 Order may change
 
-- Digital storefronts/launchers (Steam, Epic game store, Riot Games client, xbox/playtstation stores, App store/Google Play)  (1 instructional day)
 
-- AAA studios vs AA studios vs indie studios (1 instructional day)
+Week 1
 
-- Game monetization/Free 2 play (1 instrucional day)
+-
 
-- Marketing, PR and Community building (1 instructional day)
+- Digital storefronts/launchers (Steam, Epic game store, Riot Games client, xbox/playtstation stores, App store/Google Play) 
 
-- Video game journalism/reviews (1 instructional day)
+- Game monetization/Free 2 play 
 
-- Games as a Service lesson (1 instructional day)
+- Marketing, PR and Community building 
 
-- Final project - create presentation related to unit (3-5 instructional days, which is including time for student presentations to the whole class)
+- Video game journalism/reviews 
 
-- Final project - Group work during class time (1 day)
+- Introduce final project - create presentation related to unit 
+  
+Week 2
+- Marketing, PR and Community building 
 
-- Final project - presentation day (1 day)
+- AAA studios vs AA studios vs indie studios 
+
+- Games as a Service lesson 
+
+- Final project - Group work during class time 
+
+- Final project - Presentation day 
 
 
 ---
