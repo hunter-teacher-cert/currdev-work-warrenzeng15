@@ -44,6 +44,7 @@ Perhaps some simple Python could be used in order to illustrate some points abou
 
 ## Resources
 
+
 GAAS lesson links:  
 https://clevertap.com/blog/games-as-a-service/  
 https://neilpatel.com/blog/gaas/  
@@ -53,7 +54,7 @@ https://www.youtube.com/watch?v=VScoEZ-qyC4
 ---
 
 ## Lessons
-Total length: 2 Weeks?  
+Total length: ~2 Weeks, 45 minute periods
 Order may change
 
 - Digital storefronts/launchers (Steam, Epic game store, Riot Games client, xbox/playtstation stores, App store/Google Play)  (1 instructional day)
