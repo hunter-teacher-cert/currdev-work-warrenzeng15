@@ -69,7 +69,11 @@ Order may change
 
 - Games as a Service lesson (1 instructional day)
 
-- Final project - Create some sort of presentation related to the course (3-5 instructional days, which is including time for student presentations to the whole class)
+- Final project - create presentation related to unit (3-5 instructional days, which is including time for student presentations to the whole class)
+
+- Final project - Group work during class time (1 day)
+
+- Final project - presentation day (1 day)
 
 
 ---
