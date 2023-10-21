@@ -1,6 +1,5 @@
 ## Final Project - Group Presentation  
 
-
 The final project for this unit will be a group presentation, in groups of about 3-4 students that you will get to choose on your own. 
 Your group will select a topic that we have discussed previously as part of this unit and expand upon what we have already covered in this class. You may choose to analyze specific games or scenarios related to a topic, or perhaps dive deeper into analysis about a topic related to the video game industry. 
 If your group wants to choose a topic that has not been covered already, please see me about it before starting your work.    
