@@ -58,27 +58,27 @@ Total length: ~2 Weeks, 45 minute periods. Each bullet represents 1 instructiona
 
 Week 1
 
-- Game development team structure in a professional environment 
+- 00_Game development team structure in a professional environment 
 
-- Indie, AA and AAA Studios
+- 01_Indie, AA and AAA Studios
 
-- Game monetization
+- 02_Game monetization
   
-- Games as a Service 
+- 03_Games as a Service 
 
-- Introduce final project - create presentation related to unit 
+- 04_Introduce final project - create presentation related to unit 
   
 Week 2
 
-- Video game journalism
+- 05_Video game journalism
    
-- Marketing, PR and Community building 
+- 06_Marketing, PR and Community building 
 
-- Digital storefronts/launchers (Steam, Epic game store, Riot Games client, xbox/playtstation stores, App store/Google Play)
+- 07_Digital storefronts/launchers (Steam, Epic game store, Riot Games client, xbox/playtstation stores, App store/Google Play)
 
-- Final project - Group work during class time 
+- "08"_Final project - Group work during class time 
 
-- Final project - Presentation day 
+- "09"_Final project - Presentation day 
 
 
 ---
