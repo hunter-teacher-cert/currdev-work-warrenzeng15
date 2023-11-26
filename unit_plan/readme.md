@@ -20,8 +20,9 @@ As I described in the general overview, this unit is a great opportunity to give
 ## Standards Referenced
 List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
 
-- 9-12.IC.1 Impacts of Computing, Society  
-- 9-12.IC.7 Impacts of Computing, Career Paths  
+- 9-12.IC.1 Impacts of Computing, Society
+- 9-12.IC.3 Impacts of Computing, Ethics
+- 9-12.IC.7 Impacts of Computing, Career Paths
 - 9-12.DL.2 Digital Literacy, Digital Use  
 - 9-12.DL.4 Digital Literacy, Digital Use  
 - 9-12.DL.6 Digital Literacy, Digital Citizenship  
