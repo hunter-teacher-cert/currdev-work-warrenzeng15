@@ -55,27 +55,26 @@ https://www.youtube.com/watch?v=VScoEZ-qyC4
 
 ## Lessons
 Total length: ~2 Weeks, 45 minute periods. Each bullet represents 1 instructional period
-Order may change
-
 
 Week 1
 
 - Game development team structure in a professional environment 
 
-- Digital storefronts/launchers (Steam, Epic game store, Riot Games client, xbox/playtstation stores, App store/Google Play) 
+- Indie, AA and AAA Studios
 
-- Game monetization/Free 2 play 
-
-- Video game journalism/reviews 
+- Game monetization
+  
+- Games as a Service 
 
 - Introduce final project - create presentation related to unit 
   
 Week 2
+
+- Video game journalism
+   
 - Marketing, PR and Community building 
 
-- AAA studios vs AA studios vs indie studios 
-
-- Games as a Service lesson 
+- Digital storefronts/launchers (Steam, Epic game store, Riot Games client, xbox/playtstation stores, App store/Google Play)
 
 - Final project - Group work during class time 
 
