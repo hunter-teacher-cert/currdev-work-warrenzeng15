@@ -60,13 +60,11 @@ Order may change
 
 Week 1
 
-- Game developemnt team structure in a professional environment 
+- Game development team structure in a professional environment 
 
 - Digital storefronts/launchers (Steam, Epic game store, Riot Games client, xbox/playtstation stores, App store/Google Play) 
 
 - Game monetization/Free 2 play 
-
-- Marketing, PR and Community building 
 
 - Video game journalism/reviews 
 
