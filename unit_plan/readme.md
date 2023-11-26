@@ -22,7 +22,6 @@ List The NY State Computer Science standards you will be covering in this unit. 
 
 - 9-12.IC.1 Impacts of Computing, Society  
 - 9-12.IC.7 Impacts of Computing, Career Paths  
-- 9-12.CT.3 Computational Thinking, Data analysis and visualization (tentative)  
 - 9-12.DL.2 Digital Literacy, Digital Use  
 - 9-12.DL.4 Digital Literacy, Digital Use  
 - 9-12.DL.6 Digital Literacy, Digital Citizenship  
