@@ -33,11 +33,9 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ## Tools Used
 
 - Some of the game making engines/software I looked at were RPG Paper maker and Godot, but for this unit in particular, there may not be any programming done. 
-Perhaps some simple Python could be used in order to illustrate some points about the industry, which would be done in Replit
 - Other written assignments/discussions will be done through Google Classroom
 - Students will use Google docs/Google slides for written work and presentations
 - Computer and internet connection to browse sites online
-- Potentially making accounts for game launcher applications such as Steam/Epic Game Store, etc.
 
 
 ---
@@ -63,6 +61,8 @@ Week 1
 - 03_Games as a Service 
 
 - 04_Introduce final project - create presentation related to unit 
+
+
   
 Week 2
 
