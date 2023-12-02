@@ -2,7 +2,6 @@
 
 - Google Classroom 
 - Google slides
-- Replit/GitHub for markdown files, which then get turned to slides with [remark](https://remarkjs.com/#1)?
 
 
 
