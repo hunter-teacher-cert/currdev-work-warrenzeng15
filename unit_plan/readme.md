@@ -3,6 +3,8 @@ by Warren Zeng
 
 *As part of the imagined "Game Design" curriculum*
 
+The file named "Full Unit" contains all materials (Unit overview, lesson plans, resources, and slides).
+
 -----
 
 ## General Overview
