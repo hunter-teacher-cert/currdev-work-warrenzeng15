@@ -6,7 +6,7 @@ by Warren Zeng
 -----
 
 ## General Overview
-This unit's goal is to expose students to various elements of the broader video game industry, hopefully introducing them to topics/aspects that they either have not learned about before, or have never analyzed before. The unit is very much a macro-level focus on the industry and will cover topics, including but not limited to: digital storefronts/launchers, game monetization, game studio sizes (AAA, AA, indie), game marketing/PR, video game reviews/journalism, games as a service, etc. This unit also works well to promote a few digital literacy standards and promotes class discussions/conversations that you would normally not see in programming-focused computer science classes. It works well for the Game Design curriculum that I have thought up of, as it covers important details surrounding a video game that is set to release to the public and gives students an opportunity to think about a game that they are developing beyond just the game programming, art/story, etc.
+This unit's goal is to expose students to various elements of the broader video game industry, hopefully introducing them to topics/aspects that they either have not learned about before, or have never analyzed in-depth before. The unit is very much a macro-level focus on the industry and will cover topics, including but not limited to: digital storefronts/launchers, game monetization, game studio sizes (AAA, AA, indie), game marketing/PR, video game reviews/journalism, games as a service, etc. This unit also works well to promote a few digital literacy standards and promotes class discussions/conversations that you would normally not see in programming-focused computer science classes. It works well for the Game Design curriculum that I have thought up of, as it covers important details surrounding a video game that is set to release to the public and gives students an opportunity to think about a game that they are developing beyond just the game programming, art/story, etc. Students will also get to think about career paths and discuss the ethics of certain systems in the industry.
 
 
 ---
@@ -44,11 +44,7 @@ Perhaps some simple Python could be used in order to illustrate some points abou
 
 ## Resources
 
-
-GAAS lesson links:  
-https://clevertap.com/blog/games-as-a-service/  
-https://neilpatel.com/blog/gaas/  
-https://www.youtube.com/watch?v=VScoEZ-qyC4  
+A variety of articles and some videos are used to help deliver the content in the course. They are all listed in the "resources" folder/file.
 
 
 ---
@@ -84,17 +80,14 @@ Week 2
 ---
 
 ## Assesments
-(list summative and/or formative assessments used)
 
 formative - 
-- temperature check of room (thumbs up/down, etc.) during introduction to concepts
-- exit tickets at the end of class that asks students to explain concept in their own words/take a stance, etc.
+- temperature check of room (thumbs up/down, etc.) surrounding introduction to concepts
+- low stakes participation in class discussions allow for students to show their understanding 
 
 
 Summative - 
-- discussion posts (students discuss/write about their own feelings based on the different things they are learning, which could also be used as formative assessment to check understanding)
-- final presentation  
-- maybe some sort of final paper?
-
+- discussion posts (students discuss/write about their own feelings based on the different things they are learning, which could also be used as formative assessment to check understanding. Some of these will also be ethics debates)
+- final presentation that involves students going deeper into a subject related to the video game industry
 
 ---
