@@ -1,6 +1,6 @@
 # Warren Zeng
-## SEDC 73600 - Curriculum Design for Computer Science 
-# Email: warren.zeng15@myhunter.cuny.edu
+# SEDC 73600 - Curriculum Design for Computer Science 
+### Email: warren.zeng15@myhunter.cuny.edu, wzeng2@schools.nyc.gov
 
 This repository contains work done in SEDC 736, a graduate level course at Hunter College. The objective of this course was to train students on 
 how to design curriculum and plan lessons according to a curriculum and unit plan. 
